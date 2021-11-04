@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 agggkowiaj
 bbbb
 cccc
 dddd
 
 aiueo
+=======
+axxxxxxxxa
+bbbb
+cccc
+dddd
+joijoi
+>>>>>>> develop
